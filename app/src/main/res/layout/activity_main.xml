@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/avocado"
+        android:id="@+id/avocadoButton"
         android:layout_width="160dp"
         android:layout_height="70dp"
         android:background="@color/green"
